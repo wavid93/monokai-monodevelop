@@ -1,0 +1,29 @@
+{
+	"name":"David",
+	"version":"1.0",
+	"originator":"Xamarin Inc. (http://xamarin.com)",
+	"baseScheme":"Monokai",
+	"colors":[
+	],
+	"text":[
+		{"name": "Comment(DocTag)", "fore":"#74705D" },
+		{"name": "Comment Tag", "fore":"#74705D", "weight":"Bold" },
+		{"name": "Excluded Code", "fore":"#74705D" },
+		{"name": "Keyword(Type)", "fore":"#25C6F9" },
+		{"name": "Keyword(Void)", "fore":"#26D8F9" },
+		{"name": "Keyword(Declaration)", "fore":"#F9257D" },
+		{"name": "Keyword(Operator Declaration)", "fore":"#F92671" },
+		{"name": "User Types", "fore":"#B9FF00" },
+		{"name": "User Types(Enums)", "fore":"#CAFF00" },
+		{"name": "User Types(Delegates)", "fore":"#C4FF00" },
+		{"name": "User Field Usage", "fore":"#FFFFFF" },
+		{"name": "User Field Declaration", "fore":"#FFFFFF" },
+		{"name": "User Property Usage", "fore":"#FFFFFF" },
+		{"name": "User Property Declaration", "fore":"#FFFFFF" },
+		{"name": "User Method Declaration", "fore":"#BFFD1E" },
+		{"name": "Html Attribute Name", "fore":"#F7F7F2" },
+		{"name": "Razor Code", "fore":"#F7F7F2", "back":"#363732" },
+		{"name": "Css Comment", "fore":"#74705D", "weight":"Bold" },
+		{"name": "Script Comment", "fore":"#74705E" }
+	]
+}
